@@ -6,8 +6,19 @@
   float: right;
 }
 
+.about-me-nav {
+  color: white;
+}
+
+a.about-me-nav {
+  color: grey;
+}
+
+
 .jumbotron {
 text-align: center;
+color: white;
+background-image: url("../img/head-img.png");
 }
 
 .row.second {
