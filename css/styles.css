@@ -16,7 +16,6 @@ a.about-me-nav {
   color: grey;
 }
 
-
 .jumbotron {
 text-align: center;
 color: white;
@@ -25,6 +24,15 @@ background-image: url("../img/head-img.png");
 
 .panel-heading {
   background-color: #383839!important;
+}
+
+.desc-lang {
+  color: #E34C26;
+}
+
+.desc-git {
+  padding-top:2%;
+  text-align: center;
 }
 
 h3.panel-title {
@@ -53,6 +61,11 @@ h3.panel-title {
 .me img {
   border: 2px solid black;
 }
+
+.col-md-4.me {
+  text-align: center;
+}
+
 
 
 @media screen and (max-width: 995px) {
