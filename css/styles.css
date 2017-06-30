@@ -23,6 +23,14 @@ color: white;
 background-image: url("../img/head-img.png");
 }
 
+.panel-heading {
+  background-color: #383839!important;
+}
+
+h3.panel-title {
+  color: white;
+}
+
 .row.second {
   padding-top: 3%;
 }
@@ -45,6 +53,7 @@ background-image: url("../img/head-img.png");
 .me img {
   border: 2px solid black;
 }
+
 
 @media screen and (max-width: 995px) {
     .row.fourth {
