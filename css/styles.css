@@ -1,7 +1,17 @@
+.jumbotron {
+text-align: center;
+}
+
 .row.second {
   padding-top: 10%;
 }
 
 .row.third h1 {
   text-align: center;
+  padding-top: 10%;
+  padding-bottom: 15%;
+}
+
+.row.forth {
+
 }
