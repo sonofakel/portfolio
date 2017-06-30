@@ -1,6 +1,6 @@
 # _Charlie Kelson's Portfolio_
 
-#### _A portfolio of webpages and web apps that I've worked on, June 30, 2017_
+#### _A portfolio of webpages that I've worked on, June 30, 2017_
 
 #### By _**Charlie Kelson**_
 
