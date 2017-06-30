@@ -30,6 +30,8 @@ a.about-me-nav {
   background-color: #383839!important;
 }
 
+
+
 .desc-lang {
   color: #E34C26;
 }
@@ -42,6 +44,11 @@ a.about-me-nav {
 h3.panel-title {
   color: white;
 }
+
+h3.panel-title a:hover{
+  color: #E34C26;
+}
+
 
 .row.second {
   padding-top: 3%;
@@ -68,6 +75,22 @@ h3.panel-title {
 
 .col-md-4.me {
   text-align: center;
+}
+
+.col-md-4.me p {
+  font-size: 10pt;
+}
+
+.well.bkg {
+  background-color: #b2e8f9;
+}
+
+.well.hob {
+  background-color: #fd99b4;
+}
+
+.well.skill {
+  background-color: #ffe7c0;
 }
 
 @media screen and (max-width: 995px) {
