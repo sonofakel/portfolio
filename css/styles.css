@@ -1,5 +1,7 @@
 .container {
   margin-bottom: 10%;
+  padding-bottom:10%;
+  background-image: url("../img/bkg.png");
 }
 
 .nav.nav-tabs.right {
@@ -54,15 +56,19 @@ background-image: url("../img/head-img.png");
     }
 
     .row.fourth h3 {
-      padding-left: 5%;
+      margin-left: 5%;
     }
 
     .row.fourth img {
-      padding-left: 5%;
+      margin-left: 5%;
+    }
+
+    .row.fourth p {
+      margin-left: 5%;
     }
 
     .about {
-      padding-left: 5%;
+      margin-left: 5%;
     }
 
     .row.second {
